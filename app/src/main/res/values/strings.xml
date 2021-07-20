@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="add">add</string>
+    <string name="seat_number">seat_number</string>
+    <string name="add_student">add_student</string>
+    <string name="name">name</string>
+    <string name="todo">todo</string>
+</resources>
